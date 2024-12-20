@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">anime-app</string>
+    <string name="dandandan">dandandan</string>
+    <string name="dragon_ball_daima">Dragon Ball Daima</string>
+    <string name="ranma_1_2">Ranma 1/2</string>
+    <string name="btn1">Aceptar</string>
+    <string name="btn2" >Aceptar</string>
+    <string name="btn3">Aceptar</string>
+    <string name="inicio_de_sesion">inicio de sesion</string>
+    <string name="ver_serie">ver serie</string>
+    <string name="aceptar">aceptar</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="anterior">Anterior</string>
+    <string name="ver_episodio">ver episodio</string>
+</resources>
